@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **rbuitragoc/rbuitragoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/deekattax"><img src="https://api.daily.dev/devcards/v2/IjMnw2TAS6mgJvNbBeYi4.png?type=wide&r=uh9" alt="Rick Buitrago's Dev Card"/></a>
